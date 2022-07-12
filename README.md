@@ -7,4 +7,4 @@
 ![image](https://user-images.githubusercontent.com/102638663/178523711-3484cbe8-0dc3-4a65-8ae4-dc0cf800192f.png)
 
 ------
-간단한 기능을 만들어 React에서 기본적은 ts code를 사용해보았다.
+간단한 기능을 만들어 React에서 기본적은 ts code를 사용해봄
