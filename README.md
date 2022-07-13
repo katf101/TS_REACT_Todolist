@@ -1,5 +1,5 @@
 # ts-react-todolist
-리액트 + 타입스크립트로 todolist 만들기
+리액트 + 타입스크립트로 todo app 만들기
 
 인풋박스에 할 일을 적고 add버튼을 누르면 list 추가가 되고
 리스트 목록을 누르면 삭제가 되는 간단한 Todo-List 앱
